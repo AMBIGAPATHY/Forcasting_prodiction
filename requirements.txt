@@ -1,0 +1,12 @@
+# this is the requirement file for the Demand_forecasting_colab
+
+pandas
+numpy
+matplotlib
+scikit-learn
+lightgbm
+xgboost
+shap
+holidays
+tqdm
+pyarrow
